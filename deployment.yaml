@@ -19,6 +19,3 @@ spec:
           image: kiyo38/kubernetes-cicd:202406241649
           ports:
             - containerPort: 80
-services:
-  nginx:
-    image: kiyo38/kubernetes-cicd:202406241611
